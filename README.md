@@ -11,5 +11,8 @@
 2. Install dependencies:
 ```pip install -r requirements.txt```
 
-3. Run the application:
+3.Docker:
+```docker-compose -f docker-compose.yaml up```
+
+4. Run the application:
 ```python main.py```
